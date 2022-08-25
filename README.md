@@ -9,6 +9,9 @@ This is for the [builds on Steam](https://store.steampowered.com/app/273590/Desc
 Existing issues can be seen [here](https://github.com/icculus/descent3-bugs/issues) and
 new ones can be entered [here](https://github.com/icculus/descent3-bugs/issues/new).
 
+If you want to throw money at game ports like this, you can toss a few dollars at
+[my Patreon](https://patreon.com/icculus) or [my GitHub Sponsors](https://github.com/sponsors/icculus).
+
 ***We do not fix Windows bugs***
 
 ***We do not fix bugs in the Loki Games builds from 2000***
